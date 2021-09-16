@@ -9,3 +9,5 @@ Install using conda
 ```
 $ conda install -c ranaroussi quantstats
 ```
+
+![performance](performance.png)
